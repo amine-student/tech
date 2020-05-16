@@ -1,0 +1,2 @@
+# tech
+script and coding
